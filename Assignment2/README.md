@@ -1,4 +1,4 @@
-Assignment 2 - Telco Customer Churn (Interpretability)
+#Assignment 2 - Telco Customer Churn (Interpretability)
 
 This folder contains the Colab notebook and assets for Assignment 2 on the IBM Telco Customer Churn dataset (retrieved from Kaggle).
 
